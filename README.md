@@ -1,1 +1,1 @@
-# sfml-tests
+# I'm learning SFML
